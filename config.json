@@ -1,0 +1,15 @@
+{
+    "title": "Project 7",
+    "baseURL": "http:\/\/www.bluelight.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759045",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "bluelight.com"
+    }
+}
